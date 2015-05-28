@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/mikesorrenti
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://mikesorrenti.com
+  * I am mikesorrenti (https://keybase.io/mikesorrenti) on keybase.
+  * I have a public key with fingerprint B523 EA75 A6DA E8C5 367E  E859 6943 F41E 1FCD 7D2A
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "b523ea75a6dae8c5367ee8596943f41e1fcd7d2a",
+            "host": "keybase.io",
+            "key_id": "6943f41e1fcd7d2a",
+            "kid": "0101637188f31b8da028312eae4dadfe25b028ff80e639720c207a0f70b0291891820a",
+            "uid": "40a1e6b0b323723a74dcf248941b6a19",
+            "username": "mikesorrenti"
+        },
+        "service": {
+            "hostname": "mikesorrenti.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1432790920,
+    "expire_in": 157680000,
+    "prev": "e71ce2a92bac77c304807d02e23d9405775e4495ac33d6b19e383e846fe37c9f",
+    "seqno": 3,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.8
+Comment: https://keybase.io/crypto
+
+yMIdAnicbZJrSBVBFMevqZVaUBFYUEYLRdQt5rG7s3uDsJCygl4qJmmX2d1ZXfTu
+Xvfeq5VYWRQG9iCi7EJlQVoRKb2ELEl7YhFWSmEPtAL7FlT2wMJmpb41DAzzP//z
+mzmHc3dioi81oaB/6MKCX7HVCY86smO+PLOptkrQHGOrEKgSStnoYVp2MXPDrmVH
+hYCgSQgzSiQqG5QpuoRlwpgiqbIqYlOEDJq6QQxEBb9Q4kS8DI7RaIQtshyu8UvQ
+Mrj6H3/paABAAGVMoKKYGGqKQQFSMESMMtGghsmQpHHFNBXAZKwSBHQECAUmAVxX
+ocI3Ah4uNooTAYVM1oCGESYIUyIauolERRWhJlOoesYIc20aYtwdskpZxHFdZkct
+odov8EiFpTOvDV41/3Et0p0QZ4RdJ+roThmPlkSj4YCXHN0a9tyVTAv+5QQ1yzZ4
+O3lCBXMjlmMLAcidetTywFDEiKhARcAvsC1hy2VBy3NIRFYAX94zrIIjGYE6Q1RF
+GtUJ0TEQFUAMgBjChioCiRCJiaIqUR1jQ9agyrCCmSLKJsNEV03Bq6zcdoQA5t+k
+xRwZsYptGo25TKjuvF2Y5EtI9Y1NHuMNhC81ZdK/MXnYMG7E6cnL3bd914q+M7nK
+4Zsn46Xb1r/cmDi54eP4k1/L8BS5+tTRL9Pyzyev2buj4cHFlD0FH+KnP8vTv/cM
+3KjLHXpbkl3U2jZ4OOlT+72a+0vfF9VfHh6evb9gYRpcerZ9XHLzi729x92kruHe
+crhmd21bx4bKd3e063M3X2ruLj+0/vet5z8eNB4L9R/ctOHz2pYrr6ynloCbhq7O
+bJ/QlPXm2+DKczVPjtQ9s081do/0+Af8q/LyZxV2nmgZmTd8reQKhBVdVVmFl630
++tx4emxnX+XPvPjHZamum3FixvzqA6ExmZlLatPCc/bU1Wdvr1k3MLXqS5y25uS8
+/jV38cOMwcfLafAPXcU0Pg==
+=NO4U
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mikesorrenti
+
+==================================================================
+
